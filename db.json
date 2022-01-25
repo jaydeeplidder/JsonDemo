@@ -17,7 +17,7 @@
 ],
 
 "today": [
-{"id":1 , "image":https://m.media-amazon.com/images/I/31mCcX7rQlS._AC_SY200_.jpg"},
+{"id":1 , "image":"https://m.media-amazon.com/images/I/31mCcX7rQlS._AC_SY200_.jpg"},
 {"id":2, "image":"https://m.media-amazon.com/images/I/31PkkiIe6JL._AC_SY200_.jpg"},
 {"id":3, "image":"https://m.media-amazon.com/images/I/31xwdADsinL._AC_SY200_.jpg"},
 {"id":4, "image":"https://m.media-amazon.com/images/I/41UDJizX1YL._AC_SY200_.jpg"},
