@@ -9,11 +9,11 @@
 	
   ],
 "laptop": [
-{"id":1},
-{"id":1},
-{"id":1},
-{"id":1},
-{"id":1}
+{"id":1 , "image":"https://m.media-amazon.com/images/I/31TMBp0B8jL._AC_SY200_.jpg"},
+{"id":2, "image":"https://m.media-amazon.com/images/I/61BeBTB41DL._AC_SY200_.jpg"},
+{"id":3, "image":"https://m.media-amazon.com/images/I/31deLL-f2IL._AC_SY200_.jpg"},
+{"id":4, "image":"https://m.media-amazon.com/images/I/61Oa2SVfjWL._AC_SY200_.jpg"},
+{"id":5, "image":"https://m.media-amazon.com/images/I/41ReDqQSebL._AC_SY200_.jpg"}
 ]
 
 }
