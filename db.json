@@ -7,5 +7,15 @@
     { "id": 5, "title": "Shop by Category","image" :"https://img.freepik.com/free-vector/shopping-bags-trolley-out-mobile-smartphone-shopping-online-website-template-mobile-store-application-concept-marketing-digital-marketing_144352-106.jpg?size=626&ext=jpg" , "comment": "End Of Season Sales"},
     { "id": 6, "title": "Automotive essentials | Up to 60% off","image" :"https://images.ctfassets.net/uwf0n1j71a7j/1YsTJ23Lckl4IvHp1pphZP/4bb49cb852480bfeba1ff45415f7c4c1/beneficial-and-functional-vehicle-accessories.png" , "comment": "End Of Season Sales"}
 	
+  ],
+"laptops": [
+	{ "id" :1 , "image" : " https://m.media-amazon.com/images/I/31TMBp0B8jL._AC_SY200_.jpg" },
+	{ "id" :2 , "image" : " https://m.media-amazon.com/images/I/510KHEHCmxL._AC_SY200_.jpg" },
+	{ "id" :3 , "image" : " https://m.media-amazon.com/images/I/51Z5zICcWrL._AC_SY200_.jpg" },	
+	{ "id" :4 , "image" : " https://m.media-amazon.com/images/I/61yX6GXYnjS._AC_SY200_.jpg" },
+	{ "id" :5 , "image" : " https://m.media-amazon.com/images/I/51BWw9fnsCL._AC_SY200_.jpg" },
+	
+
   ]
+
 }
