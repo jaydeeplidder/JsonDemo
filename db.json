@@ -1,11 +1,11 @@
 {
 "posts": [
-    { "id": 1, "title": "Styles for Women | Up to 70% off","image" :"https://res.cloudinary.com/trunk-club/image/upload/f_auto,q_auto/Blog/20097_RomanticStyle_Header.jpg" , "comment": "End Of Season Sales" },
-    { "id": 2, "title": "Upgrade your home | Amazon Brands & more","image" :"https://sm.pcmag.com/pcmag_in/how-to/h/how-to-eas/how-to-easily-set-up-your-smart-home-devices-with-amazon-ale_fcu3.jpg", "comment": "End Of Season Sales" },
-    { "id": 3, "title": "Styles for Men | Up to 70% off","image" :"https://static.toiimg.com/thumb/msid-80068452,width-1200,height-900,resizemode-4/.jpg" , "comment": "End Of Season Sales"},
-    { "id": 4, "title": "up to 70% off | Electronics clearance store" ,"image" :"https://images-na.ssl-images-amazon.com/images/G/31/img21/Fashion/Event/Jan-ART/Event-page/Clearanceheaders/v1/ClearanceStore_Header_PC._CB662227604_.jpg", "comment": "End Of Season Sales"},
-    { "id": 5, "title": "Shop by Category","image" :"https://img.freepik.com/free-vector/shopping-bags-trolley-out-mobile-smartphone-shopping-online-website-template-mobile-store-application-concept-marketing-digital-marketing_144352-106.jpg?size=626&ext=jpg" , "comment": "End Of Season Sales"},
-    { "id": 6, "title": "Automotive essentials | Up to 60% off","image" :"https://images.ctfassets.net/uwf0n1j71a7j/1YsTJ23Lckl4IvHp1pphZP/4bb49cb852480bfeba1ff45415f7c4c1/beneficial-and-functional-vehicle-accessories.png" , "comment": "End Of Season Sales"}
+    { "id": 1, "title": "Styles for Women | Up to 70% off" , "image" :"https://res.cloudinary.com/trunk-club/image/upload/f_auto,q_auto/Blog/20097_RomanticStyle_Header.jpg" , "comment": "End Of Season Sales" },
+    { "id": 2, "title": "Upgrade your home | Amazon Brands & more" , "image" :"https://sm.pcmag.com/pcmag_in/how-to/h/how-to-eas/how-to-easily-set-up-your-smart-home-devices-with-amazon-ale_fcu3.jpg", "comment": "End Of Season Sales" },
+    { "id": 3, "title": "Styles for Men | Up to 70% off" , "image" :"https://static.toiimg.com/thumb/msid-80068452,width-1200,height-900,resizemode-4/.jpg" , "comment": "End Of Season Sales"},
+    { "id": 4, "title": "up to 70% off | Electronics clearance store"  , "image" :"https://images-na.ssl-images-amazon.com/images/G/31/img21/Fashion/Event/Jan-ART/Event-page/Clearanceheaders/v1/ClearanceStore_Header_PC._CB662227604_.jpg", "comment": "End Of Season Sales"},
+    { "id": 5, "title": "Shop by Category" , "image" :"https://img.freepik.com/free-vector/shopping-bags-trolley-out-mobile-smartphone-shopping-online-website-template-mobile-store-application-concept-marketing-digital-marketing_144352-106.jpg?size=626&ext=jpg" , "comment": "End Of Season Sales"},
+    { "id": 6, "title": "Automotive essentials | Up to 60% off" , "image" :"https://images.ctfassets.net/uwf0n1j71a7j/1YsTJ23Lckl4IvHp1pphZP/4bb49cb852480bfeba1ff45415f7c4c1/beneficial-and-functional-vehicle-accessories.png" , "comment": "End Of Season Sales"}
 	
   ],
 "laptops": [
@@ -14,8 +14,6 @@
 	{ "id" :3 , "image" : "https://m.media-amazon.com/images/I/51Z5zICcWrL._AC_SY200_.jpg" },	
 	{ "id" :4 , "image" : "https://m.media-amazon.com/images/I/61yX6GXYnjS._AC_SY200_.jpg" },
 	{ "id" :5 , "image" : "https://m.media-amazon.com/images/I/51BWw9fnsCL._AC_SY200_.jpg" },
-	
-
-  ]
+	 ]
 
 }
